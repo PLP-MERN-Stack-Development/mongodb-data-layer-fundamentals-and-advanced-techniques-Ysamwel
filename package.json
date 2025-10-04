@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-data-layer-fundamentals-and-advanced-techniques-ysamwel",
+  "version": "1.0.0",
+  "description": "Before you begin this assignment, please make sure you have the following installed:",
+  "main": "insert_books.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongodb": "^6.20.0"
+  }
+}
